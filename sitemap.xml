@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>central-heating-electric-boilers.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-boiler-system.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-boilers-for-central-heating.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-central-heating-boilers.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-boilers-cost.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-boilers.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>central-heating-with-electric-boiler.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-heating-boiler.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>electric-system-boilers.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2026-09-04T11:35:21+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
